@@ -49,7 +49,7 @@ This project is an interactive **Excel dashboard** designed to analyze pizza sal
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](dashboard.png)
+![Pizza Sales Dashboard](Pizza Dashboard.png)
 
 ---
 
