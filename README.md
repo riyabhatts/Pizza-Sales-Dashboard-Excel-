@@ -49,14 +49,14 @@ This project is an interactive **Excel dashboard** designed to analyze pizza sal
 
 ## 📷 Dashboard Preview
 
-![Pizza Sales Dashboard](Pizza Dashboard.png)
+![Pizza Sales Dashboard](PizzaDashboard.png)
 
 ---
 
 ## 📁 Project Files
 
 * `pizza_sales_dashboard.xlsx` → Main Excel dashboard
-* `dashboard.png` → Dashboard preview image
+* `PizzaDashboard.png` → Dashboard preview image
 
 ---
 
